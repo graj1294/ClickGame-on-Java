@@ -1,1 +1,1 @@
-# ClickGame-Java-
+# ClickGame on Java
